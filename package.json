@@ -1,5 +1,5 @@
 {
-  "name": "Algorithms-notes",
+##"name":*"Algorithms-notes",
   "version": "1.0.0",
   "description": "《算法（第4版）》笔记",
   "main": "index.js",
@@ -20,3 +20,4 @@
   },
   "homepage": "https://github.com/bighuang624/LeetCode-everyday#readme"
 }
+ 
